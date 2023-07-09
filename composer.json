@@ -14,7 +14,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/enum-powerpack",
+    "homepage": "https://github.com/faustbrian/enum-powerpack",
     "require": {
         "php": "^8.2",
         "bombenprodukt/laravel-package-powerpack": "^1.0"
