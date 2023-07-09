@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/enum-powerpack/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/enum-powerpack" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/enum-powerpack">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/enum-powerpack" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/enum-powerpack">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/enum-powerpack" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/enum-powerpack">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/enum-powerpack" alt="License" />
-    </a>
-</p>
 
 ## About Enum PowerPack
 
