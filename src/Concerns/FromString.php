@@ -17,7 +17,7 @@ trait FromString
         throw new \ValueError("{$value} is not a valid backing value for enum ".self::class);
     }
 
-    public static function tryfromString(string $value): self|null
+    public static function tryfromString(string $value): ?self
     {
         try {
             return self::fromString($value);
